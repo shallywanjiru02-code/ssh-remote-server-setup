@@ -92,4 +92,9 @@ SSH configuration, and Fail2ban instead of simply following commands without und
 
 One area I still want to improve is becoming more confident with Linux troubleshooting and 
 security configuration without relying heavily on documentation or guidance.
-                          #FYI this took me 2hours
+                          
+#FYI this took me 2+ hours
+
+## Project URL
+
+https://roadmap.sh/projects/ssh-remote-server-setup
